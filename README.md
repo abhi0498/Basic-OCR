@@ -14,3 +14,4 @@ $ pip install -r requirements.txt
 $ cd Basic-OCR
 $ python app.py
 ```
+# Basic-OCR
