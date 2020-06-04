@@ -1,1 +1,6 @@
 .sonarlint/**
+*.png
+*.jpg
+*.jpeg
+*.gif
+.gitignore
